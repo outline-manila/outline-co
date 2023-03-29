@@ -1,0 +1,1 @@
+export { ReactComponent as OutlineLogo } from "./outline.svg"
