@@ -40,3 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+
+a:where(.css-dev-only-do-not-override-xu9wm8).ant-typography, :where(.css-dev-only-do-not-override-xu9wm8).ant-typography a {
+  color: rgb(93, 93, 93) !important;
+}
+
+a:where(.css-dev-only-do-not-override-xu9wm8).ant-typography:hover, :where(.css-dev-only-do-not-override-xu9wm8).ant-typography a:hover {
+  color: rgb(0, 0, 0) !important;
+}
